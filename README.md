@@ -11,5 +11,15 @@ alvaro@alvaro-VirtualBox:~/Documentos/masteruah_clone$ git checkout trabajo_clon
 Cambiado a rama 'trabajo_clone'
 alvaro@alvaro-VirtualBox:~/Documentos/masteruah_clone$ touch README.md
 alvaro@alvaro-VirtualBox:~/Documentos/masteruah_clone$ ls
+
+
+| NOMBRE | GITHUB |
+| ------ | ------ |
+|  Brais Millarengo  |  [github.com/braismasteruah](https://github.com/braismasteruah)  |
+|  Javier Castro-Acuña  |  [github.com/jcajavi](https://github.com/jcajavi)  |
+|  Juan José Rodríguez González   |  [github.com/jeteleco](https://github.com/jeteleco)  |
+
+
+
 README.md
 
