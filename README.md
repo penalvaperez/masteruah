@@ -12,3 +12,8 @@ alvaro@alvaro-VirtualBox:~/Documentos/GitHub/masteruah$ git branch
 * master
 alvaro@alvaro-VirtualBox:~/Documentos/GitHub/masteruah$ touch README.md
 
+| NOMBRE | GITHUB |
+| ------ | ------ |
+|  Brais Millarengo  |  [github.com/braismasteruah](https://github.com/braismasteruah)  |
+|  Javier Castro-Acuña  |  [github.com/jcajavi](https://github.com/jcajavi)  |
+|  Juan José Rodríguez González   |  [github.com/jeteleco](https://github.com/jeteleco)  |
